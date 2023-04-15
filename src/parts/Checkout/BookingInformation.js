@@ -11,7 +11,7 @@ export default function BookingInformation(props) {
       <div className="container" style={{ marginBottom: 30 }}>
         <div className="row justify-content-center align-items-center">
           <div
-            className="col-12 col-lg-5 border-lg-right py-lg-5 px-5 px-lg-0 mb-5 mb-lg-0"
+            className="col-12 col-lg-5 border-lg-right py-lg-5 px-5 mb-5 mb-lg-0"
             style={{ paddingRight: 80 }}
           >
             <Fade delay={300}>
